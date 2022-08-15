@@ -41,7 +41,7 @@
 ### Welcome page ( 서버 접속시 최초 표시되는 페이지 )
 
     - scr/main/resources/static/index.html
-    - (markdown/img/spring Test.png)
+    - ![동작환경그림](./markdown/img/spring Test.png)
 
 ```
 @GetMapping("hello")   //url값이 /hello로 넘어왔을때 (Get 방식)
