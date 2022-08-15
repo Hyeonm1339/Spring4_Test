@@ -42,7 +42,7 @@
 
     - scr/main/resources/static/index.html
 
-![동작환경그림](./markdown/img/spring Test.png)
+![동작환경그림](./markdown/img/spring_Test.png)
 
 ```
 @GetMapping("hello")   //url값이 /hello로 넘어왔을때 (Get 방식)
